@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Meeting With Banjo",
+      "day": "23rd Dec 2022",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "School Reunion",
+      "day": "12th Nov 2022",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "My birthday Party",
+      "day": "30th November by 9:00pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
